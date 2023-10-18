@@ -1,6 +1,6 @@
 # VOID9
 
-QMK files for VOID9, a handwired 3x3 macropad by [Victor Lucachi](https://github.com/victorlucachi). The VOID9 is a 3d printed, handwired, 4x4 macropad running QMK Firmware on a Pro Micro controller.
+QMK files for VOID9, a handwired 3x3 macropad by [Victor Lucachi](https://github.com/victorlucachi). The VOID9 is a 3d printed, handwired, 3x3 macropad running QMK Firmware on a Pro Micro controller.
 
 QMK Tap Dance and Layers:
 
