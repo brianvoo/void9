@@ -2,7 +2,7 @@
 
 [QMK](https://github.com/qmk) files for VOID9, a 3D printed, handwired 3x3 macropad powered with a Pro Micro Controller designed by [Victor Lucachi](https://github.com/victorlucachi).
 
-QMK [Tap Dance](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_tap_dance.md) and Layers:
+Configured to work as a numpad with additional features through FN Layers and QMK [Tap Dance](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_tap_dance.md).
 
 <pre>
 LAYER 0
